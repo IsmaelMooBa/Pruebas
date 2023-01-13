@@ -3,3 +3,4 @@ GITHUB REGISTRO EN LA APP (DESCARGAR GIT)
 git config --global usar.name "Ismael Morales"
 
 HOLA COMO ESTAS 
+NO LE ENTIENDO 
