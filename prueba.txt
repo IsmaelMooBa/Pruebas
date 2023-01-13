@@ -1,0 +1,5 @@
+GITHUB REGISTRO EN LA APP (DESCARGAR GIT) 
+		CONFIGURACION BASICA 
+git config --global usar.name "Ismael Morales"
+
+HOLA COMOESTAS 
