@@ -4,3 +4,4 @@ git config --global usar.name "Ismael Morales"
 
 HOLA COMO ESTAS 
 NO LE ENTIENDO 
+1 2 3 3 4 5 6 7 7 6 5 4 3  21 
