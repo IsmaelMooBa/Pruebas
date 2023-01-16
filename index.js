@@ -1,3 +1,2 @@
 alert ("hola")
-alert ("hola dos")
-holi
+alert ("hola dos tres")
